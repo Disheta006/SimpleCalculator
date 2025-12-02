@@ -1,6 +1,7 @@
 # 🧮 Simple Calculator
 
-## 📝 Live Demo Link: https://disheta-simplecalculator.netlify.app/
+## 📝 Live Demo Link: 
+https://disheta-simplecalculator.netlify.app/
  
 ## 📷 Screenshot/GIF 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa433a43-1fbf-46cb-8044-1bf8f90a9481" />
