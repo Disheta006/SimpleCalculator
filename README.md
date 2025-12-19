@@ -63,7 +63,7 @@ This project is built using standard HTML, CSS, and JavaScript. No external libr
 tools are required. 
 ### Files 
 * **index.html:** The HTML structure of the calculator interface. 
-* **calculator.css:** The styling, layout, and button aesthetics. 
+* **style.css:** The styling, layout, and button aesthetics. 
 * **script.js:** The core logic for handling button presses and evaluating expressions.  
 
 ## 🤝 Contact/Credit 
